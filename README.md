@@ -2,7 +2,7 @@
 
 This repository contains the source code for a blog post
 about JSON Schema and validation. You can read the blog post on
-[codecentric's engineering blog](http://blog.codecentric.de/?p=20803).
+[codecentric's engineering blog](https://blog.codecentric.de/en/2014/01/json-schema-validation-clojure/).
 
 ## Usage
 
